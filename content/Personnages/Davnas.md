@@ -1,0 +1,1 @@
+Guerrier engagé par la famille Chrisanthem. En tant qu'aventurier, il est recruté après avoir sauvé la vie de Ronaldo Chrisanthem lors d'une escapade et a depuis promis sa servitude envers lui. Après avoir échoué de le secourir lors de son kidnapping, il a été retiré de sa position.

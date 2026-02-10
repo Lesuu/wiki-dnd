@@ -1,0 +1,2 @@
+Barde halfling, elle a été élevée par [[Baldus]] (et un peu [[Typhona]] je crois). Elle est un peu crazy. 
+Durant l'arc du marriage, elle a développé une réputation en tant que bully de fées après en avoir mise une dans sa bouche (et généralement été vraiment méchante avec elle).
