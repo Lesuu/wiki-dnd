@@ -1,1 +1,1 @@
-Duskwatch est la région dont provient la famille Chrisanthem.
+Duskwatch est la région dont provient la famille [Chrisanthem](Personnages/index).
