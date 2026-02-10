@@ -1,1 +1,1 @@
-Eradrim est la région dont provient la famille Gucciani.
+Eradrim est la région dont provient la famille [Gucciani](Personnages/index).

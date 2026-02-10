@@ -14,13 +14,9 @@ En cherchant une excuse pour leur présence, [Rukkha](/Personnages/Rukkha) ment 
 
 [Rukkha](/Personnages/Rukkha) et [Baldus](/Personnages/Baldus) se sont déguisé·es en noble afin d'accéder au banquet.
 
-Pendant ce temps, [Typhona](/Personnages/Typhona) et une maid gossip ensemble: superintendante et superintendant seraient en couple?? WOW!!! y a-t-il du véritable amour entre les futur·es mariés???
+Pendant ce temps, [Typhona](/Personnages/Typhona) et une maid gossip ensemble: [superintendante et superintendant](Personnages/index) seraient en couple?? WOW!!! y a-t-il du véritable amour entre les futur·es mariés???
 
-Pendant la nuit, des figures mystérieuses attaquent le chateau. 
-
-Georgina et Ronaldo se sont fait enlevé·es, le kidnappeur est dans le dongeon
-
-Chateau mais sorte de campus, batiments somewhat séparé. 
+Pendant la nuit, des figures mystérieuses attaquent le château. [[Davnas]] est le seul à remarquer la commotion, mais ne réussi pas à arrêter les attaquants. Ronaldo se fait kidnapper devant ses yeux, mais Davnas parvient à assomer un des attaquants avant qu'il ne s'échappe. Georgina se fait également enlevé la même nuit.
 
 L'un des brigands kidnappeur s'est fait tué par une flèche empoisonnée. On a remarqué un symbole d'un groupe de mercenaires. 
 
