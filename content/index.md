@@ -4,4 +4,4 @@ title: La dernière lettre des Nimeks
 
 Bienvenue sur le wiki de la campagne, **La dernière lettre des Nimeks** ! Je vais essayer de mettre à jour les infos au mieux quand possible :) 
 
-[[Personnages]] | [[Arc-du-marriage]] 
+[[Personnages/index]] | [[Arc-du-marriage]] 

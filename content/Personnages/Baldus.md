@@ -7,5 +7,5 @@ tags:
 editor: markdown
 dateCreated: 2026-02-09T16:34:33.635Z
 ---
-
+![[baldus.png]]
 Un moine demi-nain, Baldus Barbebraise tiens un bar depuis des années. Baldus porte des plateformes gigantesques. Baldus semble avoir éduqué [Petunia](/Personnages/Petunia)
