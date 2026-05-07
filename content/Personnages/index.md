@@ -3,9 +3,12 @@ title: Personnages
 description: L'index des différents personnages
 published: true
 date: 2026-02-10T13:09:41.231Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2026-02-10T12:06:56.042Z
+hideFolderContent: "true"
+cssclasses:
+  - hide-folder-listing
 ---
 Cette section du wiki contient des informations sur tous les personnages présent dans la campagne, que ça soit les personnages des joueureuses ou des PNJs. 
 
@@ -21,15 +24,20 @@ Les divers personnages incarnés par les joueureuses et les personnages principa
 - [Typhona](/Personnages/Typhona)
 - [Mint'sia](Personnages/Mint'sia)
 
-# 1: Introduction
+# 0: Introduction
 
-[à compléter]
+## 0.1: Figures clés
 
-# 2: Arc du marriage
+#### Maximus Moinus: 
 
-## 2.1: Figures clés
+#### Olgartigus
 
-### 2.1.1: La famille Chrisanthem
+# 1.1: [Acte 1, Chapitre 1](1.Arc-du-marriage.md)
+
+
+## 1.1.1: Figures clés
+
+### 1.1.1.1: La famille Chrisanthem
 
 La famille Chrisanthem est la famille reignant sur la région de Duskwatch. 
 #### Ronaldo Chrisanthem
@@ -37,7 +45,7 @@ Héritié de la famille Chrisanthem, il s'est fait kidnappé la veille de son ma
 
 #### Alexy Chrisanthem
 La mère (non biologique je crois?) de Ronaldo. Elle est la tête de la famille Chrisanthem
-### 2.1.2: La famille Gucciana
+### 1.1.1.2: La famille Gucciana
 #### Georgina Gucciana
 Héritiaire de la famille Gucciana, elle s'est fait kidnappée la même nuit que Ronaldo, mais personne n'a assisté à son kidnappage. Sa jambe droite est une prothèse méchanique que [Rukkha](/Personnages/Rukkha) a aidé a réparé le jour du banquet.
 
@@ -48,7 +56,7 @@ Un arbre généaolique s'étend de toute la famille. La page de Georgina: les de
 Le bibliothéquaire, aussi son éducateur, nous explique qu'un accident a devasté la famille il y a 20 ans, c'était une femme extrêmement gentille. La mère Gucciana et les mamans Chrisanthem, qui semblaient vraiment bien s'entendre par miracle, se sont retrouvées dans un accident de carosse, les 3 femmes sont décédées. Georgina s'était cachée dans la carosse pour leur faire une surprise, elle a été la seule survivante et a perdu sa jambe dans l'accident.
 #### Théodore Gucciana
 Le père de Georgina. Il est le leader de la famille Gucciana.
-## 2.2: Staff
+## 1.1.2: Staff
 
 #### Clotilde
 servante qui est tombée malade à cause de la soupe qui a failli être servie aux deux familles. Il s'avère que la soupe était empoisonnée d'après une analyse de Typhona.
@@ -58,9 +66,23 @@ Servante qui nous a aidé, qui pleurait quand on lui a demandé ce qui se passai
 Des cuisiniers qui se détestent, qui bicker tout le temps. Ils sont là depuis bien bien longtemps et connaissent beaucoup de choses, mais ont une langue de bois.
 #### Intendante et intendant 
  Intendante et intendant des deux familles, ces deux sont soupçonnés d'avoir une relation romantique. La superintendante se sent coupable d'avoir laissé Georgina se faufiler dans la carosse lors de l'accident d'il y a 20 ans.
-## 2.3: Invités au banquet
+## 1.1.3: Invités au banquet
 
 #### Bock Bocchus
 Un nain noble qui a discuté avec Baldus. Il semble suspect, travail depuis plus de 60 ans avec de l'or. Il a succédé Heridor, un noble de grande richesse. Depuis que Bocchus a repris le business, leur région prospère dans beaucoup de richesses. Les sources parlant de lui font énormément d'éloges à son égard
 #### Couple d'elfes
 Musiciens connus qui étaient censé assisté au banquet. Iels n'avaient pas l'air en forme lors du marriage.
+
+# 1.2 Acte 1, Chapitre 2
+
+Fille du vendeur d'armes
+
+Vendeur de potions
+
+Bijoutier 
+
+Tavernière 
+
+Naiad, la deveine
+
+Azuk l'orc, premier officier du navire

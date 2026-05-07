@@ -1,4 +1,6 @@
 ---
 tit: Location
+'hideFolderContent: "true"': "true"
+cssclasses:
+  - hide-folder-count
 ---
-<courte description du monde dans lequel on est>

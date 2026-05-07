@@ -1,4 +1,5 @@
 ![[rukkha.png]]
+
 Rukkha Varn est une artificière demi-orc à la peau pâle, souvent marquéx de trâce d'huiles, de crasse et de cicatrices accumulées lors de ses longues nuits blanches passées à bricoler. Son visage est rugueux, ses yeux d'un ton bleu pâle semblent constamment fatigués. 
 
 Ses longs cheveux bouclés sont abondants et mals entretenus, généralement recouverts d'un bandana comportant des motifs traditionnels orc.
